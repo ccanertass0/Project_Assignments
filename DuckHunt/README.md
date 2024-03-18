@@ -1,3 +1,7 @@
+GamePlay video Link : https://www.youtube.com/watch?v=Xs74GcHZxU4&ab_channel=CanErta%C5%9F
+
+
+
 Please specify the location (e.g. src/ or src/mypackage) 
 where your implementation should be compiled at:
 /////////// Type Below: LOCATION OF DIR ///////////
